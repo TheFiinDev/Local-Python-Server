@@ -40,3 +40,7 @@ To access the server from a smartphone, tablet, or another computer:
 ## License
 
 This project is licensed under the MIT License.
+
+## Contributing & Feedback
+
+If you find a bug, have a feature request, or want to suggest an improvement, feel free to open an issue in the **Issues** tab at the top of this repository!
